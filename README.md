@@ -1,3 +1,3 @@
 # code-line-parser
 
-## command to run npm run start ./sample/index.js
+## command to run `npm run start ./sample/index.js`
